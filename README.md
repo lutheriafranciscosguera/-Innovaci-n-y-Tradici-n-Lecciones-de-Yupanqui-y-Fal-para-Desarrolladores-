@@ -1,1 +1,4 @@
 # -Innovaci-n-y-Tradici-n-Lecciones-de-Yupanqui-y-Fal-para-Desarrolladores-
+ La Innovación a Través de la Tradición
+En el mundo del desarrollo de software, la innovación es a menudo vista como la adopción de nuevas tecnologías o la creación de algo completamente nuevo. Sin embargo, las figuras legendarias de la música folclórica argentina, como Atahualpa Yupanqui y Eduardo Falú, nos muestran que la verdadera innovación también puede surgir del respeto y la reinvención de la tradición. Yupanqui, conocido por explorar los misterios de los paisajes argentinos a través de su música, y Falú, famoso por su técnica excepcional con la guitarra, demostraron que profundizar en las raíces culturales puede conducir a una creatividad sin precedentes. Esta lección es vital para los desarrolladores: a veces, mirar hacia atrás puede ser tan innovador como mirar hacia adelante.
+(https://lutheriasguera.com/yupanqui-falu-y-los-primeros-grupos-vocales/)
